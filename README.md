@@ -24,16 +24,21 @@ Sebelum menjalankan aplikasi ini, pastikan kamu telah menginstal:
 
    ```
 
+2. Masuk ke direktori proyek
+
    '''bash
    cd nama-proyek
 
    '''
+
+3. install depedensi
 
    '''bash
    flutter pub get
 
    '''
 
+4. Jalankan aplikasi
    '''bash
    flutter run
 
