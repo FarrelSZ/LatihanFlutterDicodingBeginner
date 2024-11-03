@@ -21,8 +21,20 @@ Sebelum menjalankan aplikasi ini, pastikan kamu telah menginstal:
 
    ```bash
    git clone https://github.com/username/nama-proyek.git
-   cd nama-proyek
-   flutter pub get
-   flutter run
 
    ```
+
+   '''bash
+   cd nama-proyek
+
+   '''
+
+   '''bash
+   flutter pub get
+
+   '''
+
+   '''bash
+   flutter run
+
+   '''
