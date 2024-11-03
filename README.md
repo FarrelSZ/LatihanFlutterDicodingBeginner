@@ -24,22 +24,23 @@ Sebelum menjalankan aplikasi ini, pastikan kamu telah menginstal:
 
    ```
 
-2. Masuk ke direktori proyek
+2. Masuk ke direktori proyek:
 
-   '''bash
+   ```bash
    cd nama-proyek
 
-   '''
+   ```
 
-3. install depedensi
+3. install depedensi:
 
-   '''bash
+   ```bash
    flutter pub get
 
-   '''
+   ```
 
-4. Jalankan aplikasi
-   '''bash
+4. Jalankan aplikasi:
+
+   ```bash
    flutter run
 
-   '''
+   ```
