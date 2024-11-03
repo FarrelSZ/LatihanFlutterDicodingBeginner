@@ -1,21 +1,28 @@
-<<<<<<< HEAD
-# LatihanFlutterDicodingBeginner
-Ini adalah latihan membuat aplikasi flutter tentang wisata di Bandung.
-=======
-# project_farrel
+# Latihan Proyek Flutter Pertama dari Dicoding
 
-A new Flutter project.
+Selamat datang di repositori proyek Flutter pertama saya yang diikuti dari Dicoding! Proyek ini merupakan aplikasi aplikasi wisata yang terdapat di daerah Bandung
 
-## Getting Started
+## Teknologi yang Digunakan
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev) - Framework untuk membangun aplikasi mobile
+- [Dart](https://dart.dev) - Bahasa pemrograman yang digunakan dalam Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Prasyarat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sebelum menjalankan aplikasi ini, pastikan kamu telah menginstal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Android Studio](https://developer.android.com/studio) atau [Visual Studio Code](https://code.visualstudio.com/) (dengan plugin Flutter)
+- Emulator Android atau perangkat fisik untuk menjalankan aplikasi
+
+## Cara Menggunakan
+
+1. Kloning repositori ini:
+
+   ```bash
+   git clone https://github.com/username/nama-proyek.git
+   cd nama-proyek
+   flutter pub get
+   flutter run
+
+   ```
